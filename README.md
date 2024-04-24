@@ -5,18 +5,25 @@
 <img src="Assets/Emotion2Emoji.jpg" title = "E2E Title Picture" height='220'></p>
 
 ---
-
 Run this application on your system:
+
+Download this repository:
+
+    git clone https://github.com/004Ajay/Emotion2Emoji.git
+
+Move to the project folder:
+
+    cd Emotion2Emoji
 
 Install required libraries:
 
-            pip install tensorflow, deepface, numpy, opencv-python
+    pip install tensorflow, deepface, numpy, opencv-python
 
 _Initial run may take some time as the above libraries need to download models and weights related to recognition._ 
 
 Run the code:
 
-            python main.py
+    python main.py
 
 ---
 
